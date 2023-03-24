@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "python",
             "args": [
-                "${file}"
+                "[${file}]"
             ],
             "presentation": {
                 "reveal": "always",
